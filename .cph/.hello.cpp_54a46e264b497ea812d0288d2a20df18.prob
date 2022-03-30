@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/Users/mayanksinha/Documents/vscode_scode/hello.cpp","tests":[{"id":1647194783945,"input":"45","output":"45"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mayanksinha/Documents/vscode_scode/hello.cpp","group":"local","local":true}
